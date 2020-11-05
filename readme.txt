@@ -7,3 +7,4 @@ test fast merge.
 test merge without fast merge.
 understand stash.
 add hello.py
+delete hello.py
