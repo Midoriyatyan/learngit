@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 test fast merge.
 test merge without fast merge.
+understand stash.
+add hello.py
